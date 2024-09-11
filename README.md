@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Backend Developer with experience in building scalable and secure web applications using **JavaScript**,**Python**, **Node.js**, **Express.js**, and **MongoDB**. Here’s a bit more about me:
 
-- 🔭  I’m currently working on a **MVP-1 Web App** using **Node.js** and **Express.js**.<br>- 🌱 I’m constantly learning about backend technologies and system design.<br>- 💬 Ask me about **Node.js**, **Express**, **MongoDB**, **JWT**, **WebSockets**, and **bcrypt**.<br>- 📫 How to reach me: [Your Email](yuvrajchaudhary464@gmail.com)<br>- ⚡ Fun fact: I’m always up for new challenges and building things that scale!
+- 🔭  I’m currently working on a **MVP-1 Web App** using **Node.js** and **Express.js**.<br>- 🌱 I’m constantly learning about backend technologies and system design.<br>- 💬 Ask me about **Node.js**, **Express**, **MongoDB**, **JWT**, **WebSockets**, and **bcrypt**.<br>- 📫 How to reach me: [Your Email](mailto:youremail@example.com)<br>- ⚡ Fun fact: I’m always up for new challenges and building things that scale!
 
 
 ## 🌐 Socials:
