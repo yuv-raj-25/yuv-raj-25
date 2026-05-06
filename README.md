@@ -1,97 +1,21 @@
-# Hey, I'm Yuvraj 👋
+# 💫 About Me:
+<br>Hey, I'm Yuvraj 👋<br>Full-Stack Engineer focused on building AI-powered products, workflow tools, and scalable web applications.<br><br>I enjoy turning ideas into production-ready products — from designing clean UIs to building backend systems, APIs, real-time features, and AI integrations.<br><br>Currently focused on:<br><br>AI SaaS products<br>Workflow automation tools<br>Full-stack product engineering<br>Developer tools & internal platforms<br>Modern frontend architecture
 
-Full-Stack Engineer focused on building AI-powered products, workflow tools, and scalable web applications.
 
-I enjoy turning ideas into production-ready products — from designing clean UIs to building backend systems, APIs, real-time features, and AI integrations.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvrajch/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yuvraj0025) 
 
-Currently focused on:
-- AI SaaS products
-- Workflow automation tools
-- Full-stack product engineering
-- Developer tools & internal platforms
-- Modern frontend architecture
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yuv-raj-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=yuv-raj-25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yuv-raj-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 🚀 What I Build
-
-- AI-powered web applications
-- Internal dashboards & workflow systems
-- Real-time collaborative tools
-- Automation platforms
-- Scalable backend APIs
-- SaaS products with authentication, billing, and analytics
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yuv-raj-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=yuv-raj-25&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack
-
-### Frontend
-- Next.js
-- React
-- TypeScript
-- TailwindCSS
-- Shadcn/UI
-- GSAP
-
-### Backend
-- Node.js
-- Express.js
-- Python
-- FastAPI
-- REST APIs
-- WebSockets
-
-### Database & Infra
-- MongoDB
-- PostgreSQL
-- Prisma
-- Firebase
-- Vercel
-- AWS
-
-### AI & Tooling
-- OpenAI APIs
-- Cloudinary AI
-- AI workflow integrations
-- Automation systems
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Workflow / Pipeline Builder
-Visual node-based workflow builder with drag-and-drop interactions, dynamic graph connections, and scalable frontend architecture.
-
-### 🔹 AI Content Platform
-Built an AI-powered SaaS platform for generating and managing social content with authentication, media pipelines, and modern UI/UX.
-
-### 🔹 Analytics & Dashboard Systems
-Interactive dashboards with filtering, performance tracking, and real-time visualizations.
-
----
-
-## 📈 What I Care About
-
-- Clean architecture
-- Shipping fast
-- Product thinking
-- Performance & scalability
-- Great developer experience
-- Building things users actually enjoy using
-
----
-
-## 🌍 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/yuvrajch
-- GitHub: https://github.com/yuv-raj-25
-- Portfolio: https://yuvraj-ch.netlify.app
-
----
-
-## ⚡ Currently
-
-- Building AI-powered products
-- Exploring scalable system design
-- Looking for opportunities where I can contribute fast and grow with strong teams
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
